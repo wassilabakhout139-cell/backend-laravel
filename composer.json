@@ -1,0 +1,15 @@
+{
+    "name": "fouad/backend-laravel",
+    "autoload": {
+        "psr-4": {
+            "Fouad\\BackendLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wassilabakhout",
+            "email": "wassilabakhout139@gmail.com"
+        }
+    ],
+    "require": {}
+}
